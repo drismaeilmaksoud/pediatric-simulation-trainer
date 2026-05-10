@@ -11,6 +11,7 @@ function Navigation() {
         <ul className="nav-menu">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/cases">Cases</Link></li>
+          <li><Link to="/upload">Upload Scenario</Link></li>
           <li><Link to="/progress">My Progress</Link></li>
           <li><Link to="/admin">Admin</Link></li>
         </ul>
